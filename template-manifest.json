@@ -1,0 +1,13 @@
+{
+    "templates":[
+        {
+            "name": ".NET Standard C#",
+            "language": "C#",
+            "framework": ".NET Standard",
+            "repo": "https://github.com/JasonMiesionczek/Nebula-template-csharp-netstandard.git",
+            "version": "0.0.1",
+            "author": "Jason Miesionczek <atmospherian@gmail.com>",
+            "license": "MIT"
+        }
+    ]
+}
