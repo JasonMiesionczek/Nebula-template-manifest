@@ -1,7 +1,7 @@
 {
     "templates":[
         {
-            "name": ".NET Standard C#",
+            "name": "netstandard-csharp",
             "language": "C#",
             "framework": ".NET Standard",
             "repo": "https://github.com/JasonMiesionczek/Nebula-template-csharp-netstandard.git",
