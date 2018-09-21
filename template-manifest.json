@@ -8,6 +8,15 @@
             "version": "0.0.1",
             "author": "Jason Miesionczek <atmospherian@gmail.com>",
             "license": "MIT"
+        },
+        {
+            "name": "okhttp-java",
+            "language": "Java",
+            "framework": "OkHttp",
+            "repo": "https://github.com/JasonMiesionczek/Nebula-template-java-okhttp.git",
+            "version": "0.0.1",
+            "author": "Jason Miesionczek <atmospherian@gmail.com>",
+            "license": "MIT"
         }
     ]
 }
