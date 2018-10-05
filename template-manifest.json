@@ -17,6 +17,15 @@
             "version": "0.0.1",
             "author": "Jason Miesionczek <atmospherian@gmail.com>",
             "license": "MIT"
+        },
+        {
+            "name": "php-guzzle",
+            "language": "PHP",
+            "framework": "Guzzle",
+            "repo": "https://github.com/NebulaAPI/template-php-guzzle.git",
+            "version": "0.0.1",
+            "author": "Jason Miesionczek <atmospherian@gmail.com>",
+            "license": "MIT"
         }
     ]
 }
